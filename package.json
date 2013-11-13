@@ -3,7 +3,7 @@
     "title": "Brackets Snippets Bootstrap",
     "homepage": "https://github.com/entrepixeles/brackets-snippets-bootstrap",
     "author": "Joan Peramás",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": { "brackets": ">=0.24" },
     "description": "Una extensión de snippets para brackets usando el bootstrap (HTML, CSS, Javascript) de twitter."
 }
